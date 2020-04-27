@@ -8,6 +8,7 @@
     "typescript"
   ],
   "description": "The base but empty TypeScript template for Create React App.",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/lgkonline/cra-template-ts-empty.git"
