@@ -1,24 +1,27 @@
 {
-  "name": "cra-template-ts-empty",
-  "version": "1.0.4",
+  "name": "cra-template-ts-bootstrap",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
     "template",
-    "typescript"
+    "typescript",
+    "bootstrap",
+    "scss",
+    "sass"
   ],
-  "description": "The base but empty TypeScript template for Create React App.",
+  "description": "Template for Create React App with TypeScript, Bootstrap, Sass and reactstrap.",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lgkonline/cra-template-ts-empty.git"
+    "url": "https://github.com/lgkonline/cra-template-ts-bootstrap.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/lgkonline/cra-template-ts-empty/issues"
+    "url": "https://github.com/lgkonline/cra-template-ts-bootstrap/issues"
   },
   "files": [
     "template",

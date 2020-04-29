@@ -1,17 +1,17 @@
-# cra-template-ts-empty
+# cra-template-ts-bootstrap
 
 This is a fork of the [official TypeScript template](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) for [Create React App](https://github.com/facebook/create-react-app), but doesn't come with the placeholder React logo. So you don't have to clean up your new project  before you are able to start coding.
 
-To use this template, add `--template ts-empty` when creating a new app.
+To use this template, add `--template ts-bootstrap` when creating a new app.
 
 For example:
 
 ```sh
-npx create-react-app my-app --template ts-empty
+npx create-react-app my-app --template ts-bootstrap
 
 # or
 
-yarn create react-app my-app --template ts-empty
+yarn create react-app my-app --template ts-bootstrap
 ```
 
 ![The template doesn't come with the React placeholder stuff](./cra-empty.png)
