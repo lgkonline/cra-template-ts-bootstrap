@@ -14,7 +14,7 @@ npx create-react-app my-app --template ts-bootstrap
 yarn create react-app my-app --template ts-bootstrap
 ```
 
-![The template doesn't come with the React placeholder stuff](./cra-empty.png)
+![The template doesn't come with the React placeholder stuff](./thumbnail.png)
 
 For more information, please refer to:
 
